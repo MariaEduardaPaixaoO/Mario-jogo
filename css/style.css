@@ -130,12 +130,12 @@
     }
 
     40% {
-        bottom: 120px; /* sobe um pouco */
+        bottom: 120px; 
         opacity: 1;
     }
 
     100% {
-        bottom: -200px; /* cai para fora da tela */
+        bottom: -200px; 
         opacity: 0;
     }
 }
